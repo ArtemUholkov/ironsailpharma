@@ -236,7 +236,7 @@ header {
   }
 
   .popup_textblock {
-    max-height: 400px;
+    max-height: 300px;
     position: absolute;
     left: 100%;
     width: 100%;
